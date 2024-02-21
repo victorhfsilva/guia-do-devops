@@ -1,9 +1,11 @@
-# 😎 Guia dos Testes Automatizados
+# 😎 Guia do DevOps
 
 Bem-vindo ao Guia do DevOps! Este repositório é o ponto de partida perfeito para quem quer mergulhar no universo de DevOps. Aqui, você encontrará uma série de arquivos recheados de conceitos, exemplos práticos e links úteis para o desenvolvimento.
 
 
 ## 📚 Conteúdo:
+
+### Linux:
 
 
 
