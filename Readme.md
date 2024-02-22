@@ -22,6 +22,31 @@ Bem-vindo ao Guia do DevOps! Este repositório é o ponto de partida perfeito pa
 - [Servidor FTP](/Linux/Servidor%20FTP.md)
 - [SSH](/Linux/SSH.md)
 
+#### Referências:
+
+- [UNIX/LINUX: TutorialsPoint](https://www.tutorialspoint.com/unix/index.htm)
+
+### Git:
+
+- [Configuração](/Git/Configuração.md)
+- [Ajuda](/Git/Ajuda.md)
+- [Repositórios](/Git/Repositórios.md)
+- [Padrões de Commit](/Git/Padrões%20de%20Commit.md)
+- [Clone](/Git/Clone.md)
+- [Log](/Git/Log.md)
+- [Repositórios Remotos](/Git/Repositórios%20Remotos.md)
+- [Vinculando Pull Requests](./Git/Vinculando%20Pull%20Requests.md)
+- [Branches](/Git/Branches.md)
+- [Desfazendo](/Git/Desfazendo.md)
+- [Aliases](/Git/Aliases.md)
+- [Tags](/Git/Tags.md)
+
+#### Referências:
+
+- [Git: TutorialsPoint](https://www.tutorialspoint.com/git/index.htm)
+- [Pro Git: Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
+- [Git Cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
 ## 🤝 Contribua!
 
 Este guia está em constante crescimento, e sua contribuição é mais do que bem-vinda! Se você tem dicas, exemplos adicionais ou quer corrigir algo, sinta-se à vontade para abrir uma issue ou enviar um pull request. Vamos tornar este guia ainda mais incrível!
