@@ -7,7 +7,20 @@ Bem-vindo ao Guia do DevOps! Este repositório é o ponto de partida perfeito pa
 
 ### Linux:
 
-
+- [Arquivos e Diretórios](/Linux/Arquivos%20e%20Diretórios.md)
+- [Tratamento de Outputs](./Linux/Tratamento%20de%20Outputs.md)
+- [Padrões de Busca](/Linux/Padrões%20de%20Busca.md)
+- [Pacotes](/Linux/Pacotes.md)
+- [Permissões](/Linux/Permissões.md)
+- [Usuários](/Linux/Usuários.md)
+- [Processos](/Linux/Processos.md)
+- [Rede](/Linux/Rede.md)
+- [Variáveis de Ambiente](/Linux/Variáveis%20de%20ambiente.md)
+- [Profile](/Linux/Profile.md)
+- [Firewall UFW](./Linux/UFW.md)
+- [Cliente FTP](/Linux/Cliente%20FTP.md)
+- [Servidor FTP](/Linux/Servidor%20FTP.md)
+- [SSH](/Linux/SSH.md)
 
 ## 🤝 Contribua!
 
