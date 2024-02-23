@@ -47,6 +47,22 @@ Bem-vindo ao Guia do DevOps! Este repositório é o ponto de partida perfeito pa
 - [Pro Git: Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
 - [Git Cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
+### Vagrant:
+
+- [Instalação - WSL2 + Virtualbox](/Vagrant/Instalação%20-%20WSL%20+%20Virtualbox.md)
+- [Comandos Básicos](/Vagrant/Comandos%20Básicos.md)
+- [Vagrantfile](/Vagrant/Vagrantfile.md)
+
+#### Instalação:
+
+- [Instalação do Vagrant + Virtualbox no WSL 2](https://blog.thenets.org/how-to-run-vagrant-on-wsl-2/)
+- [Vagrant WSL](https://developer.hashicorp.com/vagrant/docs/other/wsl)
+
+#### Referências:
+
+- [Vagrant](https://developer.hashicorp.com/vagrant)
+- [Vagrant Boxes](https://app.vagrantup.com/boxes/search)
+
 ## 🤝 Contribua!
 
 Este guia está em constante crescimento, e sua contribuição é mais do que bem-vinda! Se você tem dicas, exemplos adicionais ou quer corrigir algo, sinta-se à vontade para abrir uma issue ou enviar um pull request. Vamos tornar este guia ainda mais incrível!
