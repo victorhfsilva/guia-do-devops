@@ -22,6 +22,19 @@ Bem-vindo ao Guia do DevOps! Este repositório é o ponto de partida perfeito pa
 - [Servidor FTP](/Linux/Servidor%20FTP.md)
 - [SSH](/Linux/SSH.md)
 
+#### Shell Script
+
+- [Variáveis](./Linux/Shell%20Script/Variáveis.md)
+- [Arrays](./Linux/Shell%20Script/Arrays.md)
+- [Operações Aritméticas](./Linux/Shell%20Script/Operações%20Aritiméticas.md)
+- [Operadores Lógicos](./Linux/Shell%20Script/Operadores%20Lógicos.md)
+- [Operações de String](./Linux/Shell%20Script/Operações%20de%20String.md)
+- [Operações de File Test](./Linux/Shell%20Script/Operações%20de%20File%20Test.md)
+- [Condicionais](./Linux/Shell%20Script/Condicionais.md)
+- [Loops](./Linux/Shell%20Script/Loops.md)
+- [Funções](./Linux/Shell%20Script/Funções.md)
+
+
 #### Referências:
 
 - [UNIX/LINUX: TutorialsPoint](https://www.tutorialspoint.com/unix/index.htm)
