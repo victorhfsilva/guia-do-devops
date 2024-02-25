@@ -1,0 +1,23 @@
+version: '1.0'
+services:
+  hello-earth:
+    build: 
+      dockerfile: Dockerfile
+      context: .
+    image: victorhfsilva/hello-earth
+    ports: 
+      - "8080:80"
+    volumes: 
+      - ./hello-earth/static-site:/usr/share/nginx/html
+  hello-mars:
+    build: 
+      dockerfile: Dockerfile
+      context: .
+    image: victorhfsilva/hello-mars
+    ports: 
+      - "8081:80"
+    volumes: 
+      - ./hello-mars/static-site:/usr/share/nginx/html
+networks:
+  hello-network:
+    driver: bridge 
