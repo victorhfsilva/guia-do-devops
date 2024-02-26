@@ -89,11 +89,21 @@ Bem-vindo ao Guia do DevOps! Este repositório é o ponto de partida perfeito pa
 - [Dockerfile](/Docker/Comandos%20no%20Dockerfile.md)
 - [Docker Compose](/Docker/Docker%20Compose.md)
 
-### Referências:
+#### Referências:
 
 - [Docker Hub](https://hub.docker.com/)
-- [Docker: Tutorialspoint](https://www.tutorialspoint.com/docker/index.htm)
+- [Docker: TutorialsPoint](https://www.tutorialspoint.com/docker/index.htm)
 
+
+### Kubernetes:
+
+- [Pods](/Kubernetes/Pods.md)
+- [Definição via YAML de Pods](/Kubernetes/Definição%20YAML%20de%20Pods.md)
+- [Serviços](/Kubernetes/Serviços.md)
+
+#### Referências:
+
+- [Docker: TutorialsPoint](https://www.tutorialspoint.com/kubernetes/index.htm)
 
 ## 🤝 Contribua!
 
