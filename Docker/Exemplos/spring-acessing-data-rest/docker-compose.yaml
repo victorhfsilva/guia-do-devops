@@ -1,0 +1,9 @@
+version: '3.9'
+services:
+  gs-accessing-data-rest-gradle:
+    build:
+      dockerfile: ./gradle.dockerfile
+      context: ./gs-accessing-data-rest
+    image: victorhfsilva/gs-accessing-data-rest-gradle
+    ports:
+      - "8080:8080"
