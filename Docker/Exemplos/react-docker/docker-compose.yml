@@ -1,0 +1,9 @@
+version: '2.4'
+services:
+  react-app:
+    build:
+      dockerfile: ./react-app/Dockerfile
+      context: .
+    image: victorhfsilva/react-app
+    ports: 
+      - "8081:80"
