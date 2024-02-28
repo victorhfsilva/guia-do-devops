@@ -1,0 +1,16 @@
+version: '3.9'
+services:
+  gs-rest-service-gradle:
+    build:
+      dockerfile: ./gradle.dockerfile
+      context: ./gs-rest-service
+    image: victorhfsilva/gs-rest-service-gradle
+    ports:
+      - "8080:8080"
+  gs-rest-service-mvn:
+    build:
+      dockerfile: ./mvn.dockerfile
+      context: ./gs-rest-service
+    image: victorhfsilva/gs-rest-service-mvn
+    ports:
+      - "8082:8080"
