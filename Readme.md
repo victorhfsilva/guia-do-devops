@@ -53,6 +53,7 @@ Bem-vindo ao Guia do DevOps! Este repositório é o ponto de partida perfeito pa
 - [Desfazendo](/Git/Desfazendo.md)
 - [Aliases](/Git/Aliases.md)
 - [Tags](/Git/Tags.md)
+- [Submódulos](/Git/Submodulos.md)
 
 #### Referências:
 
