@@ -106,6 +106,21 @@ Bem-vindo ao Guia do DevOps! Este repositório é o ponto de partida perfeito pa
 
 - [Docker: TutorialsPoint](https://www.tutorialspoint.com/kubernetes/index.htm)
 
+### AWS
+
+#### CDK
+
+- [Configuração do Ambiente](/AWS/CDK/Configuração%20de%20Ambiente.md)
+- [Estrutura de um Aplicativo AWS CDK](/AWS/CDK/Estrutura%20de%20um%20Aplicativo%20AWS%20CDK.md)
+- [Configurando Redes no AWS](/AWS/CDK/Configurando%20Redes%20no%20AWS.md)
+- [S3](/AWS/CDK/S3.md)
+- [EFS](/AWS/CDK/EFS.md)
+- [RDS](/AWS/CDK/RDS.md)
+- [DynamoDB](/AWS/CDK/DynamoDB.md)
+- [EC2](/AWS/CDK/EC2.md)
+- [ECS](/AWS/CDK/ECS.md)
+- [Lambda](/AWS/CDK/Lambda.md)
+
 ## 🤝 Contribua!
 
 Este guia está em constante crescimento, e sua contribuição é mais do que bem-vinda! Se você tem dicas, exemplos adicionais ou quer corrigir algo, sinta-se à vontade para abrir uma issue ou enviar um pull request. Vamos tornar este guia ainda mais incrível!
