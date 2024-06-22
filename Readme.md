@@ -120,6 +120,8 @@ Bem-vindo ao Guia do DevOps! Este repositório é o ponto de partida perfeito pa
 - [EC2](/AWS/CDK/EC2.md)
 - [ECS](/AWS/CDK/ECS.md)
 - [Lambda](/AWS/CDK/Lambda.md)
+- [CloudFormation Parameters](./AWS/CDK/Cloudformation%20Parameters.md)
+- [CloudFormation Output](./AWS/CDK/CloudFormation%20Outputs.md)
 
 ## 🤝 Contribua!
 
