@@ -98,13 +98,19 @@ Bem-vindo ao Guia do DevOps! Este repositório é o ponto de partida perfeito pa
 
 ### Kubernetes:
 
-- [Pods](/Kubernetes/Pods.md)
-- [Definição via YAML de Pods](/Kubernetes/Definição%20YAML%20de%20Pods.md)
-- [Serviços](/Kubernetes/Serviços.md)
-
-#### Referências:
-
-- [Docker: TutorialsPoint](https://www.tutorialspoint.com/kubernetes/index.htm)
+- [[Criando um Cluster Kubernetes Local com Kind]]
+- [[Componentes do Kubernetes]]
+- [[Namespaces no Kubernetes]]
+- [Pods no Kubernetes](Pods%20no%20Kubernetes.md)
+- [Definição via YAML de Pods](Escrita%20de%20YAMLs%20de%20Pods.md)
+- [[Readiness e Liveness Probes]]
+- [[Volumes]]
+- [[Deployments no Kubernetes]]
+- [[Kubernetes Services]]
+- [[Criando Serviços no Kubernetes]]
+- [[Kubectl]]
+- [[Persistência dos Dados]]
+- [[ConfigMaps e Secrets]] 
 
 ### AWS
 

@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "3074197bcf4d2afd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a173d8f69919701d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b94514226cae8b0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f37f48659812027",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a938cd07ebc8bc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aadeda0bfdbbc71e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5123efc89505f2db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "57e151112761b12c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a45418b5f1658b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "87bfc50222a61dcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7751d142410c871a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Readme"
+            }
+          },
+          {
+            "id": "929ab6340ead638d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Readme"
+            }
+          },
+          {
+            "id": "a3bea4273e96f9ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6e1c76a95eb3ad34",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b94514226cae8b0b",
+  "lastOpenFiles": [
+    "Docker/Transferência de Arquivos.md",
+    "Docker/Informações.md",
+    "Docker/Exposição de Portas.md",
+    "Docker/Docker Compose.md",
+    "Docker/Administrando Recursos.md",
+    "Docker/Gerenciando Volumes.md",
+    "Kubernetes/Kubectl.md",
+    "Readme.md",
+    "Kubernetes/Serviços.md",
+    "Kubernetes/Pods.md",
+    "Kubernetes/Definição YAML de Pods.md",
+    "Kubernetes/Kubernetes Services.md",
+    "Kubernetes/ConfigMaps e Secrets.md",
+    "Kubernetes/Persistência dos Dados.md",
+    "Kubernetes/Criando Serviços no Kubernetes.md",
+    "Kubernetes/Volumes.md",
+    "Kubernetes/Readiness e Liveness Probes.md",
+    "Kubernetes/Deployments no Kubernetes.md",
+    "Kubernetes/Pods no Kubernetes.md",
+    "Kubernetes/Escrita de YAMLs de Pods.md",
+    "Kubernetes/Namespaces no Kubernetes.md",
+    "Kubernetes/Componentes do Kubernetes.md",
+    "Kubernetes/Criando um Cluster Kubernetes Local com Kind.md",
+    "Docker/Comandos no Dockerfile.md",
+    "Docker/Criando um Container MySQL.md",
+    "Docker/Redes.md"
+  ]
+}
