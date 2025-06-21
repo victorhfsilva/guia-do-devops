@@ -133,8 +133,8 @@ services:
 	mysqlsrv:
 		image: mysql:5.7
 		environment: 
-		MYSQL_ROOT_PASSWORD:"password123"
-		MYSQL_DATABASE: "dio"
+			MYSQL_ROOT_PASSWORD:"password123"
+			MYSQL_DATABASE: "dio"
 		ports:
 			- "3306:3306"
 		volumes:
